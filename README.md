@@ -1,6 +1,10 @@
 # workflow
 Probando Workflow con Git.
 
-branch fijos
+branch permanentes
 
  develop
+
+branch temporarios
+
+ feature/1
