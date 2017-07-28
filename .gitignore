@@ -1,2 +1,6 @@
-/logs/*
-!/logs/nginx/empty
+# Logs
+logs
+*.log
+error.log*
+vs_access.log*
+vs_error.log*
